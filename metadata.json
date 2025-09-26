@@ -1,0 +1,7 @@
+{
+  "name": "Rực Rỡ Trung Thu DUY",
+  "description": "An application to generate beautiful Mid-Autumn Festival themed images from your photos using AI. Upload a photo, choose a theme, and create a unique memory.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
